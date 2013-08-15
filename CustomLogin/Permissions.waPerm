@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><permissions>
+<allow action="read" groupName="AccountUser" groupID="2DFCBF420C984DDFB11AE7837E2CE26B" resource="Model.User" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="create" groupName="AccountAdmin" groupID="BB27E7CD4AAB4113B1CAB34604ACF386" resource="Model.User" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="update" groupName="AccountAdmin" groupID="BB27E7CD4AAB4113B1CAB34604ACF386" resource="Model.User" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="remove" groupName="AccountAdmin" groupID="BB27E7CD4AAB4113B1CAB34604ACF386" resource="Model.User" temporaryForcePermissions="false" type="dataClass"/>
+</permissions>

@@ -1,0 +1,1 @@
+﻿CRM = {};CRM.login = function(username, password, resultFunction){	ds.User.login($$('usernameInput').getValue(), $$('passwordInput').getValue(), {		onSuccess: function(event){			resultFunction(event.result);		}	});}CRM.logout = function(){	WAF.directory.logout();	window.location = "/";}
