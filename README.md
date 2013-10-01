@@ -9,4 +9,6 @@ Notes and learning goals:
 - Notice how the HA1Key is set and validated against in the ModelFolder/User.js (onSet) and the ModelFolder/User-methods.js (validate password).
 - Client side, there is some code in the WebFolder/myScripts/app.js file to handle login/logout client side.
 
+System admin username/password for server startup is systemadmin/systemadmin
+
 Please visit [www.wakanda.org](http://www.wakanda.org "wakanda.org") for more information.
